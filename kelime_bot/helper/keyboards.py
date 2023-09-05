@@ -2,7 +2,7 @@ from pyrogram.types import InlineKeyboardButton
 from pyrogram.types import InlineKeyboardMarkup
 
 kanal = InlineKeyboardMarkup([
-    [InlineKeyboardButton("📢 Rəsmi Kanal" , url= "https://t.me/ElikoResmi")]
+    [InlineKeyboardButton("📢 Rəsmi Kanal" , url= "t.me/ElikoResmi")]
 ])
 
 
