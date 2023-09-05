@@ -15,11 +15,11 @@ LOGGER = logging.getLogger(__name__)
 
 
 # Hesap
-API_ID = getenv("API_ID", "18482353")
-API_HASH = getenv("API_HASH", "9f7840b7015b359a49e142ce42decd71")
-TOKEN = getenv("TOKEN", "5555938715:AAHN-LYT49d4MydJWj8WzmmERp41rRISbos")
-USERNAME = getenv("USERNAME", "B9SSD7")
-OWNER_ID = getenv("OWNER_ID", "5531642054")
+API_ID = getenv("API_ID", "14965050")
+API_HASH = getenv("API_HASH", "38bab2dab10fc1b6a9ba0bf683fd7048")
+TOKEN = getenv("TOKEN", "6482647440:AAHNRraGWUzoUurP8VFh7rWspSDU9R46z5Y")
+USERNAME = getenv("USERNAME", "ElikoAndMee")
+OWNER_ID = getenv("OWNER_ID", "5664761345")
 
 if OWNER_ID and len(OWNER_ID) and OWNER_ID.isdigit():
     OWNER_ID = int(OWNER_ID)  # type: ignore
