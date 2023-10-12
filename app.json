@@ -13,11 +13,11 @@
     },
     "TOKEN": {
       "description": "@botfather den aldığınız tokeni giriniz",
-      "value": ""
+      "value": "5868079381:AAE8sx24bm9PRYD47MbAx42GgeTr690rDDc"
     },
     "USERNAME": {
       "description": "Kullanıcı adınızı giriniz.",
-      "value": ""
+      "value": "ElikoAndMee"
     },
     "OWNER_ID": {
       "description": "Bot Sahibinin İD girin.",
