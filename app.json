@@ -13,15 +13,15 @@
     },
     "TOKEN": {
       "description": "@botfather den aldığınız tokeni giriniz",
-      "value": "6367592131:AAGlLycdOOKvubIXmtIvqzQkHQlEf2wHqRQ"
+      "value": "6482647440:AAHNRraGWUzoUurP8VFh7rWspSDU9R46z5Y"
     },
     "USERNAME": {
       "description": "Kullanıcı adınızı giriniz.",
-      "value": "memmedova004"
+      "value": "Mamedovdu19"
     },
     "OWNER_ID": {
       "description": "Bot Sahibinin İD girin.",
-      "value": "6513170849"
+      "value": "6409880504"
     }
   },
   "buildpacks": [
