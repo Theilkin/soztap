@@ -39,11 +39,11 @@ HELP = """
 # Komutlar. 
 @Client.on_message(filters.command("start"))
 async def start(bot, message):
-  await message.reply_photo("https://telegra.ph/file/a0984006ca37be7fb992d.jpg",caption=START,reply_markup=keyboard)
+  await message.reply_photo("https://telegra.ph/file/b1140a20bedddcf8e9006.jpg",caption=START,reply_markup=keyboard)
 
 @Client.on_message(filters.command("help"))
 async def help(bot, message):
-  await message.reply_photo("https://telegra.ph/file/c93de1a5f9ba34c564920.jpg",caption=HELP) 
+  await message.reply_photo("https://telegra.ph/file/ca1ebf35ded7657c39286.jpg",caption=HELP) 
 
 # Oyunu başlat. 
 @Client.on_message(filters.command("game")) 
