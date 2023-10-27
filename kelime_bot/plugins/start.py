@@ -14,8 +14,8 @@ keyboard = InlineKeyboardMarkup([
         InlineKeyboardButton("➕ Qrupa Əlavə Et ➕", url=f"http://t.me/EagleGameBot?startgroup=new")
     ],
     [
-        InlineKeyboardButton("Sahib🧑‍💻", url="t.me/Mamedovdu19"),
-        InlineKeyboardButton("Söhbet Qrupu💬", url="t.me/EagleAzeSohbet"),
+        InlineKeyboardButton("Sahib🧑‍💻", url="t.me/MuradAndMee"),
+        InlineKeyboardButton("Söhbet Qrupu💬", url="t.me/SohbetDC"),
     ]
 ])
 
