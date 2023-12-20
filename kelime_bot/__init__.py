@@ -17,9 +17,9 @@ LOGGER = logging.getLogger(__name__)
 # Hesap
 API_ID = getenv("API_ID", "26090016")
 API_HASH = getenv("API_HASH", "5b842f9801712684f2b98d70ead6538d")
-TOKEN = getenv("TOKEN", "")
+TOKEN = getenv("TOKEN", "6965819675:AAFw1MFvsw2MkR5ELF1lX-xKNDo0fELvF5Q")
 USERNAME = getenv("USERNAME", "The_ferid")
-OWNER_ID = getenv("OWNER_ID", "6297494131")
+OWNER_ID = getenv("OWNER_ID", "6972789052")
 
 if OWNER_ID and len(OWNER_ID) and OWNER_ID.isdigit():
     OWNER_ID = int(OWNER_ID)  # type: ignore
