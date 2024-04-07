@@ -5,23 +5,23 @@
   "env": {
     "API_ID": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": "26090016"
+      "value": "29341839"
     },
     "API_HASH": {
       "description": "@otomytelegrambot dan api hash api id alınız.",
-      "value": "5b842f9801712684f2b98d70ead6538d"
+      "value": "557d3180ae884c8d59a28c1ed9fe4004"
     },
     "TOKEN": {
       "description": "@botfather den aldığınız tokeni giriniz",
-      "value": ""
+      "value": "7034840004:AAHTnm0IqLVM4tBLkwEZDn6i5fa-7k72JZI"
     },
     "USERNAME": {
       "description": "Kullanıcı adınızı giriniz.",
-      "value": "The_ferid"
+      "value": "ismayilofh"
     },
     "OWNER_ID": {
       "description": "Bot Sahibinin İD girin.",
-      "value": "6297494131"
+      "value": "6671958102"
     }
   },
   "buildpacks": [
